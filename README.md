@@ -5,7 +5,7 @@ facilitated by the Research Software Engineering Team.
 
 Currently we don't have a regular meeting but will get one organised soon.
 
-We use [a project board](https://github.com/RSE-Sheffield/team-python/projects/1) to track the topics.
+We use [a project board](https://github.com/RSE-Sheffield/team-python/projects/2) to track the topics - feel free to add topics you'd like to discuss in future.
 
 If you have problems, e-mail d.wilby@sheffield.ac.uk
 
