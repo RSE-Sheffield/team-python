@@ -15,6 +15,7 @@ Currently, we can talk python on the #team-python channel of the RSE-UoS slack w
 
 ## Deciding topics for discussion
 We'll decide topics for discussion at team python meets using democracy.
+Discussion topics as issues can be sorted by how many :+1: upvotes they have [by using this link](https://github.com/RSE-Sheffield/team-python/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ### Adding :heavy_plus_sign:
 1. [Open an issue](https://github.com/RSE-Sheffield/team-python/issues/new/choose)
