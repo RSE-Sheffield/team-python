@@ -18,8 +18,13 @@ We'll decide topics for discussion at team python meets using democracy.
 Discussion topics as issues can be sorted by how many :+1: upvotes they have [by using this link](https://github.com/RSE-Sheffield/team-python/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc).
 
 ### Adding :heavy_plus_sign:
+Either:
 1. [Open an issue](https://github.com/RSE-Sheffield/team-python/issues/new/choose)
-2. On the [project board][project-board]
+2. On the [project board][project-board] add your issue to the "Topics Wishlist" column.
+
+Or:
+1. On the [project board][project-board] at the top of the "Topics Wishlist" column, click `+` to create a new card.
+2. Then on the new card, click `...` and `Convert to issue`.
 
 ### Voting :ballot_box:
 On [issues][issues], give them a :+1: if you'd like to discuss them at a future meeting.
