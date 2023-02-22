@@ -3,11 +3,11 @@
 Team Python is a group for learning Python hosted at The University of Sheffield, and
 facilitated by the Research Software Engineering Team.
 
-Currently we don't have a regular meeting but will get one organised soon.
+We meet every 4th Wednesday from 3-4pm on Google Meet. Please join the slack channel below for reminders and ask to join the [Google Group](https://groups.google.com/a/sheffield.ac.uk/g/team-python-group) (visible to members of the University of Sheffield).
 
-We use [a project board][project-board] to track the topics - feel free to add topics you'd like to discuss in future.
+We use [a project board][project-board] to track the topics - feel free to add topics you'd like to discuss in future by [creating an issue](https://github.com/RSE-Sheffield/team-python/issues/new) in this repository.
 
-If you have problems, e-mail d.wilby@sheffield.ac.uk
+If you have problems, e-mail d.wilby [at] sheffield.ac.uk
 
 ## Slack
 Currently, we can talk python on the #team-python channel of the RSE-UoS slack workspace, for which details are available at: <https://rse.shef.ac.uk/community/slack>
